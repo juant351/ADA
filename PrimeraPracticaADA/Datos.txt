@@ -1,0 +1,141 @@
+DATOS VECTOR TAM: 10000
+Algoritmo 1:
+	Comparaciones: 24986477,950000
+	Asignaciones: 74929436,850000
+	Tiempo: 0,035750seg
+Algoritmo 2:
+	Comparaciones: 236097,300000
+	Asignaciones: 315511,650000
+	Tiempo: 0,001200seg
+Algoritmo 3:
+	Comparaciones: 10001,000000
+	Asignaciones: 4652,050000
+	Tiempo: 0,000950seg
+
+DATOS VECTOR TAM: 20000
+Algoritmo 1:
+	Comparaciones: 99884883,850000
+	Asignaciones: 299594654,550000
+	Tiempo: 0,123500seg
+Algoritmo 2:
+	Comparaciones: 548700,300000
+	Asignaciones: 710170,950000
+	Tiempo: 0,002100seg
+Algoritmo 3:
+	Comparaciones: 20001,000000
+	Asignaciones: 8223,250000
+	Tiempo: 0,001350seg
+
+DATOS VECTOR TAM: 30000
+Algoritmo 1:
+	Comparaciones: 224820530,750000
+	Asignaciones: 674371595,250000
+	Tiempo: 0,282000seg
+Algoritmo 2:
+	Comparaciones: 889054,850000
+	Asignaciones: 1157332,850000
+	Tiempo: 0,003000seg
+Algoritmo 3:
+	Comparaciones: 30001,000000
+	Asignaciones: 15075,700000
+	Tiempo: 0,002300seg
+
+DATOS VECTOR TAM: 40000
+Algoritmo 1:
+	Comparaciones: 399584347,450000
+	Asignaciones: 1198633045,350000
+	Tiempo: 0,492400seg
+Algoritmo 2:
+	Comparaciones: 1268529,950000
+	Asignaciones: 1629326,350000
+	Tiempo: 0,004350seg
+Algoritmo 3:
+	Comparaciones: 40001,000000
+	Asignaciones: 22326,400000
+	Tiempo: 0,003250seg
+
+DATOS VECTOR TAM: 50000
+Algoritmo 1:
+	Comparaciones: 624580769,300000
+	Asignaciones: 1873592310,900000
+	Tiempo: 0,766900seg
+Algoritmo 2:
+	Comparaciones: 1680953,800000
+	Asignaciones: 2133754,850000
+	Tiempo: 0,005350seg
+Algoritmo 3:
+	Comparaciones: 50001,000000
+	Asignaciones: 31052,350000
+	Tiempo: 0,004450seg
+
+DATOS VECTOR TAM: 60000
+Algoritmo 1:
+	Comparaciones: 900648227,500000
+	Asignaciones: 2701764685,500000
+	Tiempo: 1,115250seg
+Algoritmo 2:
+	Comparaciones: 2080322,750000
+	Asignaciones: 2624781,450000
+	Tiempo: 0,006800seg
+Algoritmo 3:
+	Comparaciones: 60001,000000
+	Asignaciones: 27324,100000
+	Tiempo: 0,005350seg
+
+DATOS VECTOR TAM: 70000
+Algoritmo 1:
+	Comparaciones: 1225359966,250000
+	Asignaciones: 3675869901,750000
+	Tiempo: 2,736600seg
+Algoritmo 2:
+	Comparaciones: 2523522,000000
+	Asignaciones: 3159396,100000
+	Tiempo: 0,008700seg
+Algoritmo 3:
+	Comparaciones: 70001,000000
+	Asignaciones: 38524,300000
+	Tiempo: 0,006400seg
+
+DATOS VECTOR TAM: 80000
+Algoritmo 1:
+	Comparaciones: 1601715545,600000
+	Asignaciones: 4804906639,800000
+	Tiempo: 1,996950seg
+Algoritmo 2:
+	Comparaciones: 2963314,800000
+	Asignaciones: 3690407,450000
+	Tiempo: 0,009500seg
+Algoritmo 3:
+	Comparaciones: 80001,000000
+	Asignaciones: 47338,000000
+	Tiempo: 0,007400seg
+
+DATOS VECTOR TAM: 90000
+Algoritmo 1:
+	Comparaciones: 2025613698,300000
+	Asignaciones: 6076571097,900000
+	Tiempo: 2,528500seg
+Algoritmo 2:
+	Comparaciones: 3423078,850000
+	Asignaciones: 4317868,050000
+	Tiempo: 0,011050seg
+Algoritmo 3:
+	Comparaciones: 90001,000000
+	Asignaciones: 41530,900000
+	Tiempo: 0,009000seg
+
+DATOS VECTOR TAM: 100000
+Algoritmo 1:
+	Comparaciones: 2500909532,100000
+	Asignaciones: 7502428599,300000
+	Tiempo: 3,145500seg
+Algoritmo 2:
+	Comparaciones: 3855855,500000
+	Asignaciones: 4852419,750000
+	Tiempo: 0,012650seg
+Algoritmo 3:
+	Comparaciones: 100001,000000
+	Asignaciones: 48224,500000
+	Tiempo: 0,008250seg
+
+FINAL
